@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+  PatternGeneratorView.cpp
+c:\users\acer\documents\visual studio 2015\projects\patterngenerator\patterngenerator\patterngeneratorview.cpp(109): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  PatternGeneratorDoc.cpp
+  PatternGenerator.cpp
+  MainFrm.cpp
+  CalendarBar.cpp
+  Generating Code...
+  PatternGenerator.vcxproj -> c:\users\acer\documents\visual studio 2015\Projects\PatternGenerator\Debug\PatternGenerator.exe
+  PatternGenerator.vcxproj -> c:\users\acer\documents\visual studio 2015\Projects\PatternGenerator\Debug\PatternGenerator.pdb (Partial PDB)
